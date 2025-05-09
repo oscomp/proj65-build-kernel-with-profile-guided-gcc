@@ -23,14 +23,14 @@ Compass-CI 是一个可持续集成的测试平台。为开发者提供针对上
 
 ### 所属赛道
 
-2021全国大学生操作系统比赛的“OS功能设计”赛道
+2025全国大学生操作系统比赛的“OS功能设计”赛道
 
 
 ### 参赛要求
 
-- 以小组为单位参赛，最多三人一个小组，且小组成员是来自同一所高校的本科生（2021年春季学期或之后本科毕业的大一~大四的学生）
+- 以小组为单位参赛，最多三人一个小组，且小组成员是来自同一所高校的本科生
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
-- 请遵循“2021全国大学生操作系统比赛”的章程和技术方案要求
+- 请遵循“2025全国大学生操作系统比赛”的章程和技术方案要求
 
 
 ### 项目导师
@@ -53,7 +53,9 @@ Compass-CI 是一个可持续集成的测试平台。为开发者提供针对上
 ### 文档
 
 [1] Yuan P, Guo Y, Chen X. Experiences in profile-guided operating system kernel optimization[C]//Proceedings of 5th Asia-Pacific Workshop on Systems. 2014: 1-6.
+
 [2] https://github.com/facebookincubator/BOLT
+
 [3] https://github.com/google/autofdo
 
 ### License
